@@ -4,6 +4,8 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
       <module fileurl="file://$PROJECT_DIR$/kotlin_114_error_repro.iml" filepath="$PROJECT_DIR$/kotlin_114_error_repro.iml" />
+      <module fileurl="file://$PROJECT_DIR$/libA/libA.iml" filepath="$PROJECT_DIR$/libA/libA.iml" />
+      <module fileurl="file://$PROJECT_DIR$/libB/libB.iml" filepath="$PROJECT_DIR$/libB/libB.iml" />
     </modules>
   </component>
 </project>
